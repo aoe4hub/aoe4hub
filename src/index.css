@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#civsplash {
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
